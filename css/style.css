@@ -1,0 +1,21 @@
+img {
+	cursor: pointer;
+	display: block;
+    margin: 0 auto;
+}
+
+p {
+	color: lightblue;
+	font-weight: bold;
+}
+
+li:hover {
+	cursor: pointer;
+	color: lightblue;
+}
+
+#cat{
+	text-align: center;
+	color: lightblue;
+	background: gray;
+}
